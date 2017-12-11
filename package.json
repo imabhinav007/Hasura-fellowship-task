@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "dateformat": "^3.0.2",
+    "express": "^4.16.2",
+    "js-tabify": "^1.2.0",
+    "node-fetch": "^1.7.3",
+    "request": "^2.83.0",
+    "tableify": "^1.1.0"
+  }
+}
